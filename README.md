@@ -1,4 +1,4 @@
-# Random-meme-generator #
+# Random meme generator #
 * Click on any of the actions on the right side of the page to generate a random meme, joke, quote, or a riddle.
 * All the memes, jokes, quotes, riddles are related to Programming. (Programming humour)
 # Output
